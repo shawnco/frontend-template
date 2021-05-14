@@ -1,6 +1,7 @@
 {
   "name": "frontend-template",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "Front end template for React projects",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
