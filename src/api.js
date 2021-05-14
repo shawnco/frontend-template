@@ -18,3 +18,4 @@ class Api {
         return axios.delete(api_url + route, data);
     }
 }
+export default Api;
